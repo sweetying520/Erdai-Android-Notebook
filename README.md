@@ -9,7 +9,7 @@
 * 归纳<Java从入门到精通>这本书 进度(0%)
 
 ## Android :zap:
-> Android基础 (进度0%)
+> [Android基础](https://github.com/sweetying520/Erdai-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E6%80%BB%E7%BB%93.md) (进度20%)
 
 归纳Android入门神书<Android第一行代码>,之前刚学习Android的时候看过几遍,现在从头在来总结一遍,温故而知新,可以为师矣.话说现在已经出到第三版了,郭神出品,必属精品,果断得买过来看看
 
