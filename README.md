@@ -6,7 +6,20 @@
 
 ## Java :coffee:
 > Java基础
-* 归纳<Java从入门到精通>这本书 进度(0%)
+* 归纳总结书籍 Java从入门到精通
+* 归纳总结书籍 Effective Java
+    
+> Java进阶
+* 归纳总结书籍 Thinking in Java
+
+> Java并发
+* 归纳书籍 Java并发编程的艺术,Java并发编程实战 
+
+> JVM深入理解
+* 归纳书籍深入理解Java虚拟机
+    
+目前对于Java高级相关的知识点有待进一步加强: 注解,APT
+
 
 ## Android :zap:
 > [Android基础](https://github.com/sweetying520/Erdai-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E6%80%BB%E7%BB%93.md) (进度20%)
@@ -14,11 +27,28 @@
 归纳Android入门神书<Android第一行代码>,之前刚学习Android的时候看过几遍,现在从头在来总结一遍,温故而知新,可以为师矣.话说现在已经出到第三版了,郭神出品,必属精品,果断得买过来看看
 
 > Android进阶
-* 归纳地球人都知道要看的<Android开发艺术探索> (进度 0%)
-* 归纳刘皇叔的<Android进阶之光> (进度 0%)
+* 归纳地球人都知道要看的<Android开发艺术探索>
+* 归纳刘皇叔的<Android进阶之光>
+* 归纳书籍Android从小工到专家、Android高级进阶
+> 自我感觉一些当前最重要的事情
+* 自定义View: 1,自定义View流程(measure,layout,draw) 2,事件分发 3,自定义动画及组件
+* 性能优化: 大方向,需要有一个整体深入的理解
+* 组件化,aop,Jetpack,当前流行的开源库源码阅读
+* 设计模式深入理解,实践
+* 消化和深入理解同事分享的技术文档
+> Android性能优化
+* 归纳整理书籍 Android应用性能优化最佳实践
+> Android源码解析
+* 归纳整理书籍《Android系统源代码情景分析》、《深入理解Android内核设计思想》(上, 下)、《Android框架揭秘》
+> Android优秀第三方库源码解析
+* Glide,Retrofit,Arouter,Okhttp,ButterKnife,EventBus,RxJava等
+> Android组件化
+* 归纳整理书籍《Android组件化架构》
+> Android插件化
 
 
 ## 额外学习 :muscle:
+以做公司项目为主,知识体系学习为辅,将技术博客作为一种学习的方式
 
 **学习方法**
 > 总结自我觉得最高效的学习方法
