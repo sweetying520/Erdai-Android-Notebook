@@ -22,7 +22,7 @@
 
 
 ## Android :zap:
-> [Android基础](https://github.com/sweetying520/Erdai-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E6%80%BB%E7%BB%93.md) (进度100%)
+> [Android基础](进度100%)
 
 归纳Android入门神书<Android第一行代码>,之前刚学习Android的时候看过几遍,现在从头在来总结一遍,温故而知新,可以为师矣.话说现在已经出到第三版了,郭神出品,必属精品,果断得买过来看看
 
@@ -34,7 +34,7 @@
 * 自定义View: 1,自定义View流程(measure,layout,draw) 2,事件分发 3,自定义动画及组件
 * 性能优化: 大方向,需要有一个整体深入的理解
 * 组件化,aop,Jetpack,当前流行的开源库源码阅读
-* 设计模式深入理解,实践 (进度100%)
+* 设计模式深入理解,实践
 * 消化和深入理解同事分享的技术文档
 > Android性能优化 (进度100%)
 * 归纳整理书籍 Android应用性能优化最佳实践
