@@ -22,11 +22,11 @@
 
 
 ## Android :zap:
-> [Android基础](https://github.com/sweetying520/Erdai-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E6%80%BB%E7%BB%93.md) (进度20%)
+> [Android基础](https://github.com/sweetying520/Erdai-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E6%80%BB%E7%BB%93.md) (进度100%)
 
 归纳Android入门神书<Android第一行代码>,之前刚学习Android的时候看过几遍,现在从头在来总结一遍,温故而知新,可以为师矣.话说现在已经出到第三版了,郭神出品,必属精品,果断得买过来看看
 
-> Android进阶
+> Android进阶 (进度100%)
 * 归纳地球人都知道要看的<Android开发艺术探索>
 * 归纳刘皇叔的<Android进阶之光>
 * 归纳书籍Android从小工到专家、Android高级进阶
