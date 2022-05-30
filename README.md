@@ -30,21 +30,21 @@
 * 归纳地球人都知道要看的<Android开发艺术探索>
 * 归纳刘皇叔的<Android进阶之光>
 * 归纳书籍Android从小工到专家、Android高级进阶
-> 自我感觉一些当前最重要的事情
+> 自我感觉一些当前最重要的事情 (进度100%)
 * 自定义View: 1,自定义View流程(measure,layout,draw) 2,事件分发 3,自定义动画及组件
 * 性能优化: 大方向,需要有一个整体深入的理解
 * 组件化,aop,Jetpack,当前流行的开源库源码阅读
-* 设计模式深入理解,实践
+* 设计模式深入理解,实践 (进度100%)
 * 消化和深入理解同事分享的技术文档
-> Android性能优化
+> Android性能优化 (进度100%)
 * 归纳整理书籍 Android应用性能优化最佳实践
-> Android源码解析
+> Android源码解析 (进度100%)
 * 归纳整理书籍《Android系统源代码情景分析》、《深入理解Android内核设计思想》(上, 下)、《Android框架揭秘》
-> Android优秀第三方库源码解析
+> Android优秀第三方库源码解析 (进度100%)
 * Glide,Retrofit,Arouter,Okhttp,ButterKnife,EventBus,RxJava等
-> Android组件化
+> Android组件化 (进度100%)
 * 归纳整理书籍《Android组件化架构》
-> Android插件化
+> Android插件化 (进度100%)
 
 
 ## 额外学习 :muscle:
